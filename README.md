@@ -1,4 +1,4 @@
-# ledam
+# IRLeD
 
 This repository contains codes for extracting catchphrases from legal case documents.
 
